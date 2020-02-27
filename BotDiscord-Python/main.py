@@ -4,7 +4,7 @@ from discord.ext import commands
 import asyncio
 from discord.ext.commands.cooldowns import BucketType
 from random import randint
-token="NjgyNzMwNTcyMDUyOTU1MTc0.XlhQdQ.LUuyCGM2WHwKLOnkU0Q6tHHiOOc"
+token="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 Client=discord.Client()
 client=commands.Bot(command_prefix="didac!")
 
